@@ -1,0 +1,44 @@
+{
+    "Joe": {
+        "Math": 4.5,
+        "Science": 4.5,
+        "English": 4.5,
+        "Gym": 3.5,
+        "History": 4.0
+    },
+    "Bill": {
+        "Math": 3.5,
+        "Science": 3.0,
+        "English": 4.0,
+        "Gym": 4.5,
+        "History": 4.0
+    },
+    "Tim": {
+        "Math": 5.0,
+        "Science": 5.0,
+        "English": 5.0,
+        "Gym": 5.0,
+        "History": 4.5
+    },
+    "Sally": {
+        "Math": 4.0,
+        "Science": 3.5,
+        "English": 4.5,
+        "Gym": 3.5,
+        "History": 3.0
+    },
+    "Jane": {
+        "Math": 5.0,
+        "Science": 4.5,
+        "English": 4.5,
+        "Gym": 4.5,
+        "History": 3.5
+    },
+    "Matthew": {
+        "Math": 5.0,
+        "Science": 5.0,
+        "English": 5.0,
+        "Gym": 5.0,
+        "History": 5.0
+    }
+}
